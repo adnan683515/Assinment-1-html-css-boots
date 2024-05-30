@@ -1,0 +1,50 @@
+.menu
+{
+    cursor: pointer;
+}
+
+.menu:hover
+{
+    color: red;
+}
+
+.ph
+{
+    width: 80%;
+}
+
+.hi
+{
+    color: aqua;
+}
+
+.soft-web
+{
+    color: rgb(227, 19, 47);
+}
+
+.childe
+{
+    width: 180px;
+}
+
+.exp
+{
+    width: 800px;
+}
+
+.input-froms
+{
+    width: 500px;
+}
+.send
+{
+    height: 50px;
+    width: 140px;
+    
+}
+
+.lekha
+{
+    padding-left: 10px;
+}
